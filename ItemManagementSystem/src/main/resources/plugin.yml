@@ -1,0 +1,9 @@
+name: ItemManagementSystem
+version: '${project.version}'
+main: com.some.domain.itemmanagementsystem.ItemManagementSystem // ドメイン名を追加
+api-version: '1.20'
+
+commands:
+  imsystem:
+    description: IMSystem command
+    usage: アイテムのデータベース作成
